@@ -8,6 +8,12 @@
 ## Motivações para o portfólio
 <p>Após o professor Hebert Alquimim da Universidade Nove de Julio(UNINOVE) propor aos seus alunos para criar um curriculo, portfólio ou perfil utilizando apenas as linguagens de marcação: HTML e CSS, aceitei o desafio e logo fiz o meu perfil. Este projeto ainda irá sofrer com implementações futuras. Além disso, também estará disponível na web em breve (colocarei o link aqui para vocês acompanharem). </p>
 
+## Imagens da aplicação web
+<a href="https://imgur.com/z5NxcuR"><img src="https://i.imgur.com/z5NxcuR.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/zKC6kJb"><img src="https://i.imgur.com/zKC6kJb.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/9NhRi1l"><img src="https://i.imgur.com/9NhRi1l.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/IeeETvf"><img src="https://i.imgur.com/IeeETvf.jpg" title="source: imgur.com" /></a>
+  
 ## Ferramentas utilizadas
 <img align="center" alt="HTML5" height="40" width="40" img src="https://i.imgur.com/ZXdYN1X.png">
 <img align="center" alt="CSS3" height="40" width="40" img src="https://i.imgur.com/pYDwgef.png">
