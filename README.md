@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 <div align=center>
 
 <img src="https://i.imgur.com/9W7YjoJ.png" width=200px height=200px>
@@ -23,5 +20,3 @@
 
 ## Sobre mim 
 <p> Estudante de Analise e Desenvolvimento de Sistemas pela Universidade Nove de Julho (UNINOVE) e estudante Full Stack Developer Web Junior pela Generation Brasil, estou sempre em constante procura por evolução e aprendizagem para melhor desenvoltura pessoal e profissional. Apaixonada pelo aprendizado e insaciável por novos desafios, procuro me alocar na área da Tecnologia afim de desenvolver minhas habilidades técnicas, transmitir e absorver novos aprendizados. </p> 
-
->>>>>>> 3a516e79e928e96e9537dfde6ecd7e2d86484ddf
